@@ -9,7 +9,7 @@ very simple and naive flappy bird implementation in react-js.
 
 have fun :)
 
-<a href="https://flappy-bird-react-vlwtvhhflk.now.sh" target="_blank">Play a live demo - click here</a>
+<a href="https://flappy-bird-react-vlwtvhhflk.now.sh" target="blank">Play a live demo - click here</a>
 - Press "s" to make the "bird" jump
 
 ![video of flappy bird react](https://media.giphy.com/media/xircFOiPZPz44KxFrl/giphy.gif)
