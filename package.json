@@ -1,5 +1,5 @@
 {
-  "name": "flappy-bird.react",
+  "name": "flappy-bird-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,12 +7,14 @@
     "react-dom": "^16.4.2",
     "react-key-handler": "^1.2.0-beta.2",
     "react-scripts": "1.1.5",
-    "react-shapes": "^0.1.0"
+    "react-shapes": "^0.1.0",
+    "serve": "^10.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "now-start": "serve --single ./build"
   }
 }
